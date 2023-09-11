@@ -59,7 +59,7 @@ Follow these steps to run the Spring Boot application:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/jeewanyadav/BatteryTestApp
+git clone git@github.com:jeewanyadav/test-battery.git
 Navigate to the project directory:
 
 shell
